@@ -1,9 +1,19 @@
 # TFT Positioning
 
+## Introduction
+
+This page is intended to summarise the TFT Set 9 Positioning guide made by Garchompro on [Youtube](https://www.youtube.com/watch?v=9GobCZryBuc).  
+**All credits go to the author**, I just wanted to make it easily searchable for when I'm playing my games. I'll be adding some of my own notes based on my own playing experience.  
+
+Please note that the positions suggested are 'default' positions which don't take into account how enemies place their units. Make sure you always scout enemy boards and adjust accordingly.  
+
+The default positioning indcations are based on the following diagram:  
+![Hex Overview](hexes.PNG)
+
 ## Table of Contents
 - [TFT Positioning](#tft-positioning)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
   - [General Guidance](#general-guidance)
   - [1 cost units](#1-cost-units)
     - [Cassiopeia](#cassiopeia)
@@ -68,17 +78,6 @@
     - [Ryze](#ryze)
     - [Senna](#senna)
     - [Sion](#sion)
-
-
-## Introduction
-
-This page is intended to summarise the TFT Set 9 Positioning guide made by Garchompro on [Youtube](https://www.youtube.com/watch?v=9GobCZryBuc).  
-**All credits go to the author**, I just wanted to make it easily searchable for when I'm playing my games. I'll be adding some of my own notes based on my own playing experience.  
-
-Please note that the positions suggested are 'default' positions which don't take into account how enemies place their units. Make sure you always scout enemy boards and adjust accordingly.  
-
-The default positioning indcations are based on the following diagram:  
-![Hex Overview](hexes.PNG)
 
 ## General Guidance
 
